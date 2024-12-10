@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ahmrte/bookk/static/css/main.eb57793e.css",
+    "main.js": "/ahmrte/bookk/static/js/main.eeaff103.js",
+    "static/js/453.d3d39a9b.chunk.js": "/ahmrte/bookk/static/js/453.d3d39a9b.chunk.js",
+    "static/media/book1.png": "/ahmrte/bookk/static/media/book1.014f74a3ff49e22fcb0a.png",
+    "static/media/book3.png": "/ahmrte/bookk/static/media/book3.158af7a8e23e5dfb405c.png",
+    "static/media/book2.png": "/ahmrte/bookk/static/media/book2.7f599b8f6cb17e8116a6.png",
+    "index.html": "/ahmrte/bookk/index.html",
+    "main.eb57793e.css.map": "/ahmrte/bookk/static/css/main.eb57793e.css.map",
+    "main.eeaff103.js.map": "/ahmrte/bookk/static/js/main.eeaff103.js.map",
+    "453.d3d39a9b.chunk.js.map": "/ahmrte/bookk/static/js/453.d3d39a9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb57793e.css",
+    "static/js/main.eeaff103.js"
+  ]
+}
